@@ -1,0 +1,14 @@
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\bin\Debug\X-OrganizedTaskAssistant.exe
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\bin\Debug\X-OrganizedTaskAssistant.pdb
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\App.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-OrganizedTaskAssistant_MarkupCompile.cache
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-OrganizedTaskAssistant.g.resources
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X_OrganizedTaskAssistant.Properties.Resources.resources
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-OrganizedTaskAssistant.csproj.GenerateResource.Cache
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-OrganizedTaskAssistant.exe
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-OrganizedTaskAssistant.pdb
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XHubWindow.baml
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XHubWindow.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XTaskListWindow.baml
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XTaskListWindow.g.cs

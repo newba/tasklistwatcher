@@ -1,0 +1,40 @@
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XHubWindow.baml
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XTaskListWindow.baml
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XHubWindow.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XTaskListWindow.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\App.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.csproj.GenerateResource.Cache
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\bin\Debug\X-Hub.exe
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\bin\Debug\X-Hub.pdb
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub_MarkupCompile.cache
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.g.resources
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X_Hub.Properties.Resources.resources
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.exe
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.pdb
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\AddTaskWindow.baml
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\AddTaskWindow.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\CustNumericUpDown.baml
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\CustNumericUpDown.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\Adam_Denley\My Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub_MarkupCompile.lref
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\CustNumericUpDown.baml
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XHubWindow.baml
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XTaskListWindow.baml
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\AddTaskWindow.g.cs
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\CustNumericUpDown.g.cs
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XHubWindow.g.cs
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\XTaskListWindow.g.cs
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\App.g.cs
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub_MarkupCompile.cache
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub_MarkupCompile.lref
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\bin\Debug\X-Hub.exe
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\bin\Debug\X-Hub.pdb
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\AddTaskWindow.baml
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.g.resources
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X_Hub.Properties.Resources.resources
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.csproj.GenerateResource.Cache
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.exe
+C:\Users\Cerathalis\Documents\Visual Studio 2008\Projects\X-OrganizedTaskAssistant\X-OrganizedTaskAssistant\obj\Debug\X-Hub.pdb
